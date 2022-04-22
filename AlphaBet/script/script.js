@@ -1,7 +1,3 @@
-// ADMISSION number: CIT-222-005/2020
-// Name: KIBIRI JOSPHAT MUTERU
-// COURSE: COMPUTER TECHNOLOGY
-
 'use strict'
 const btnCloseModal = document.querySelector('.close-modal');
 const btnCloseResultsModal = document.querySelector('.closeResultsModal');
